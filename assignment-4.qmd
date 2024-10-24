@@ -1,0 +1,81 @@
+---
+title: "Assignment 4"
+author: "Ingrid Hansen"
+format: 
+  html:
+    toc: true
+    toc-location: left
+    number-sections: false
+execute: 
+  echo: false
+bibliography: kilde.bib
+link-citations: true
+---
+
+
+## Litteraturgjennomgang
+
+## Introduksjon til det bredere problemet
+
+Det er en økende anerkjennelse av betydningen av fysisk aktivitet for å forbedre helseutfall, spesielt blant spesifikke populasjoner som pasienter med hjerteproblemer, diabetes og barn. 
+
+Trening kan ha en betydelig innvirkning på maksimalt oksygenopptak (VO2max), som er en viktig indikator for kardiovaskulær helse og fysisk kapasitet.
+
+## Forskningsspørsmål og hypoteser
+
+Forskningsspørsmålet for disse studiene er: Hvordan påvirker ulike treningsformer VO2max hos forskjellige befolkningsgrupper?
+
+Hypotesen er at både aerob intervalltrening og kontinuerlig trening vil ha en positiv effekt på VO2max, men at intervalltrening kan gi større forbedringer enn moderat trening.
+
+## Logisk kobling mellom problemstilling og forskningsspørsmål
+Det er en klar kobling mellom den overordnede problemstillingen om betydningen av trening for helse og forskningsspørsmålene som tar sikte på å evaluere effekten av spesifikke treningsmetoder på VO2max. 
+
+Dette er relevant for utviklingen av anbefalinger for trening i kliniske settinger.
+
+## Studieoppsett og metodikk
+
+Har valgt å bruke (@hulley2013), kapitlene 7–13, for å analysere forskjellene og likhetene i metodene mellom studiene:
+
+-	Artikkel 1: 
+
+(@mcKelvie2007) benyttet et randomisert kontrollert design med to grupper (aerob intervalltrening vs. moderat kontinuerlig trening). Intervensjonen varte i 24 uker, og deltakerne ble fulgt opp med regelmessige tester av VO2max for å vurdere effekten av treningsmetodene. Studien viste at aerob intervalltrening hadde en signifikant større effekt på VO2max enn moderat trening.
+
+-	Artikkel 2:
+
+(@hayes2017) undersøkte effekten av høyintensitets intervalltrening (HIIT) på VO2max hos deltakere i forskjellige aldersgrupper (20-70 år). Metoden inkluderte pre- og post-intervensjonstester for VO2max, med en kontrollgruppe for sammenligning. Resultatene indikerte at yngre deltakere hadde større forbedringer i VO2max enn eldre.
+
+-	Artikkel 3:
+
+(@arun2019) fokuserte på diabetiske menn og anvendte et strukturert aerob treningsprogram. Deltakerne ble delt inn i trenings- og kontrollgrupper, og VO2max ble målt før og etter intervensjonen. Studien viste betydelige forbedringer i VO2max hos de som gjennomgikk det aerobiske treningsprogrammet.
+
+-	Artikkel 4:
+
+(@barnett2015) brukte en tverrsnittsdesign for å evaluere forholdet mellom daglig fysisk aktivitet og VO2max hos barn. Deltakere ble overvåket over en periode, og data ble samlet inn for å vurdere aktivitet og oksygenopptak. Resultatene viste en positiv sammenheng mellom nivået av fysisk aktivitet og VO2max.
+
+-	Artikkel 5:
+
+(@andersen2005) inkluderte et prospektiv design med objektiv måling av fysisk aktivitet og VO2max hos barn. Metodene var omfattende og involverte direkte observasjoner, samt fysiske tester for å vurdere aktivitetsnivå. Studiet fant at økt fysisk aktivitet var assosiert med høyere VO2max.
+
+## Resultater
+Studiene viste at intervalltrening og moderat kontinuerlig trening resulterte i signifikante forbedringer i VO2max.
+
+Spesielt artikkel 1 viste at intervalltrening hadde en overlegen effekt på VO2max sammenlignet med moderat trening, mens artikkel 2 bekreftet at yngre deltakere responderte bedre på HIIT.
+
+## Konklusjoner
+Konklusjonene fra disse studiene er at trening, spesielt intervalltrening, har betydelige helsefordeler for ulike grupper. Dette understreker viktigheten av å tilpasse treningsanbefalinger for spesifikke befolkningsgrupper for å optimalisere helseutfall.
+
+## Diskusjon av metodiske likheter og forskjeller
+Det er metodiske likheter som randomisering og kontrollgrupper i de fleste studier, men forskjeller finner man i treningsintensitet, varighet og befolkningsgrupper. 
+
+Dette gir en variert forståelse av hvordan treningsmetoder kan gjennomføres i kliniske settinger, og hvordan de kan tilpasses for å maksimere helsefordeler for ulike individer.
+
+Disse studiene gir verdifulle innsikter i hvordan trening kan tilpasses for å optimalisere helseeffektene for forskjellige grupper.
+
+Dette mangfoldet av metoder gir et nyansert bilde av hvordan treningsintervensjoner kan påvirke VO2max, og fremhever behovet for videre forskning for å utforske ulike tilnærminger og populasjoner.
+
+
+
+
+
+
+
